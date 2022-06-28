@@ -21,10 +21,10 @@ The classification goal is to predict if the client will subscribe a term deposi
 For more information, read [Moro et al., 2011].
 
 Input variables:
-1 - age (numeric)
-2 - job : type of job (categorical: "admin.","unknown","unemployed","management","housemaid","entrepreneur","student",
+age (numeric)
+job : type of job (categorical: "admin.","unknown","unemployed","management","housemaid","entrepreneur","student",
                                  "blue-collar","self-employed","retired","technician","services") 
-3 - marital : marital status (categorical: "married","divorced","single"; note: "divorced" means divorced or widowed)
+marital : marital status (categorical: "married","divorced","single"; note: "divorced" means divorced or widowed)
 4 - education (categorical: "unknown","secondary","primary","tertiary")
 5 - default: has credit in default? (binary: "yes","no")
 6 - balance: average yearly balance, in euros (numeric) 

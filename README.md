@@ -18,12 +18,9 @@ The classification goal is to predict if the client will subscribe a term deposi
    The smallest dataset is provided to test more computationally demanding machine learning algorithms (e.g. SVM).
 
    The classification goal is to predict if the client will subscribe a term deposit (variable y).
-
-
-   For more information, read [Moro et al., 2011].
+ For more information, read [Moro et al., 2011].
 
    Input variables:
-
    1 - age (numeric)
    2 - job : type of job (categorical: "admin.","unknown","unemployed","management","housemaid","entrepreneur","student",
                                        "blue-collar","self-employed","retired","technician","services") 

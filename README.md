@@ -1,4 +1,4 @@
-# Prediction-of-Customer-Subcription-in-a-Bank
+# Model comparison for Bank marketing
 The classification goal is to predict if the client will subscribe a term deposit (variable y).
 
 
